@@ -11,5 +11,8 @@
 
 ## Economics
 
-[Economics](content\economics\)
+[Economics][econ]
 
+
+
+[econ]: content\economics\
