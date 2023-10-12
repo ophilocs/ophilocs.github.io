@@ -16,4 +16,4 @@
 
 
 [cs]: content/cheat-sheets
-[econ]: content\economics\
+[econ]: content\economics
