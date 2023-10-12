@@ -4,4 +4,4 @@
 
 
 
-[ir]: content\economics\interest-rates
+[ir]: interest-rates
