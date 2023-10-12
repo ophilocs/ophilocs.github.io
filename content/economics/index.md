@@ -1,3 +1,7 @@
 
 ## Economics
-[Interest Rates](content\economics\interest-rates)
+[Interest Rates][ir]
+
+
+
+[ir]: content\economics\interest-rates
