@@ -7,7 +7,7 @@
 
 # Cheat Sheets
 
-[Cheat Sheets](content/cheat-sheets)
+[Cheat Sheets][cs]
 
 ## Economics
 
@@ -15,4 +15,5 @@
 
 
 
+[cs]: content/cheat-sheets
 [econ]: content\economics\
