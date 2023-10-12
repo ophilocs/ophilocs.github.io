@@ -1,4 +1,4 @@
-[back][back]
+[Economics][back]
 
 ## About
 
@@ -6,5 +6,5 @@
 
 
 
-[back]: \content\economics
+[back]: content\economics
 
