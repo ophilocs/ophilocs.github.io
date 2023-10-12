@@ -1,3 +1,3 @@
 ## Investing
 
-[Investing Cheat Sheet](./assets/Investing-cheat-sheet.pdf)
+[Investing Cheat Sheet pdf](./assets/Investing-cheat-sheet.pdf)
